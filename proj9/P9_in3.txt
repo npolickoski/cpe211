@@ -1,0 +1,24 @@
+10	// number of rows here is a lot more characters to ignore on this line - how many characters can there be?  No one knows for sure
+5	// number of columns
+
+0 0 1 1 0
+1 1 0 0 1
+0 1 1 0 0
+1 0 0 1 1
+1 1 0 0 0
+1 1 1 1 1
+0 0 0 0 0
+1 1 1 1 1
+0 0 0 0 0
+1 1 1 1 1
+
+1 1 1 1 1
+0 0 0 0 0
+1 1 1 1 1
+0 0 0 0 0
+1 1 1 1 1
+0 0 1 1 0
+1 1 0 0 1
+0 1 1 0 0
+1 0 0 1 1
+1 1 0 0 0

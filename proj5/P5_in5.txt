@@ -1,0 +1,7 @@
+a 6
+b 8
+? isosceles
+c 8
+
+
+

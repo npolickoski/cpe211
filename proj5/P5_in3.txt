@@ -1,0 +1,5 @@
+? equilateral
+c 8
+b 8
+a 8
+

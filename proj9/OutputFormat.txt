@@ -1,0 +1,52 @@
+This File shows what the output should 
+Look like for input file P9_in3.txt
+
+Enter the name of the input file: P9_in3.txt
+P9_in3.txt
+
+Initial values of the arrays processed
+--------------------------------------
+Array 1       Array 2   
+-------       -------   
+0 0 1 1 0     1 1 1 1 1 
+1 1 0 0 1     0 0 0 0 0 
+0 1 1 0 0     1 1 1 1 1 
+1 0 0 1 1     0 0 0 0 0 
+1 1 0 0 0     1 1 1 1 1 
+1 1 1 1 1     0 0 1 1 0 
+0 0 0 0 0     1 1 0 0 1 
+1 1 1 1 1     0 1 1 0 0 
+0 0 0 0 0     1 0 0 1 1 
+1 1 1 1 1     1 1 0 0 0 
+
+OR, AND and XOR results
+-----------------------
+OR            AND           XOR       
+--            ---           ---       
+1 1 1 1 1     0 0 1 1 0     1 1 0 0 1 
+1 1 0 0 1     0 0 0 0 0     1 1 0 0 1 
+1 1 1 1 1     0 1 1 0 0     1 0 0 1 1 
+1 0 0 1 1     0 0 0 0 0     1 0 0 1 1 
+1 1 1 1 1     1 1 0 0 0     0 0 1 1 1 
+1 1 1 1 1     0 0 1 1 0     1 1 0 0 1 
+1 1 0 0 1     0 0 0 0 0     1 1 0 0 1 
+1 1 1 1 1     0 1 1 0 0     1 0 0 1 1 
+1 0 0 1 1     0 0 0 0 0     1 0 0 1 1 
+1 1 1 1 1     1 1 0 0 0     0 0 1 1 1 
+
+
+Integer Equivalents for the rows
+of the OR, AND and XOR arrays
+--------------------------------
+OR      AND     XOR     
+--      ---     ---     
+31      6       25      
+25      0       25      
+31      12      19      
+19      0       19      
+31      24      7       
+31      6       25      
+25      0       25      
+31      12      19      
+19      0       19      
+31      24      7       

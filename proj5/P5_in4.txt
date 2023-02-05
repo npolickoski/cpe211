@@ -1,0 +1,6 @@
+c 8
+? not-triangle
+b 8
+a 6
+
+

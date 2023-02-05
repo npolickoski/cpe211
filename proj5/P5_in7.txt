@@ -1,0 +1,5 @@
+a 1
+b 99
+c 1000
+? not-triangle
+

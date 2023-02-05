@@ -1,0 +1,20 @@
+7
+Washington George 100 99 95 90 80 70 80
+Jefferson Thomas 90 83 84 90 80 70 80
+Franklin Benjamin 80 74 72 90 80 70 80
+Lincoln Abraham 100 42 60 90 80 70 80
+Madison Madison 70 60 55 80 50 60 100
+Wilson Woodrow 50 34 55 80 50 60 100
+Hoover Herbert 50 99 76 80 50 60 100
+Jackson Andrew 75 98 50 80 50 60 100
+Roosevelt Franklin 45 65 86 80 50 60 100
+Carter Jimmy 98 76 23 80 50 60 100
+Reagan Ronald 79 98 89 90 40 50 70
+William Clinton 60 60 60 90 40 50 70
+Bush_num41 George 76 86 74 90 75 85 80
+Bush_num43 George 87 76 89 90 40 50 70
+Eisenhower Dwight 99 98 97 90 40 50 70
+Nixon Richard 50 50 50 90 40 50 70
+Truman Harry 45 65 75 100 100 100 100
+Kennedy John 87 76 98 100 100 100 100
+Johnson Lyndon 99 95 10 100 100 100 100
